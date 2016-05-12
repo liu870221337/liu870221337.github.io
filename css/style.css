@@ -234,7 +234,7 @@ a {
 }
 #container .left-col {
 
-  background: red;
+  background-image: url("../images/liuyifei.jpg");
   width: 300px;
   position: fixed;
   opacity: 1;
