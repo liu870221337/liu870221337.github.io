@@ -233,8 +233,8 @@ a {
   margin: 3px;
 }
 #container .left-col {
- background-image: url("../images/liuyifei.jpg");
-  background: #fff;
+
+  background: red;
   width: 300px;
   position: fixed;
   opacity: 1;
